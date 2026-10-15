@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BAL/BAL.csproj" Id="7ec81a6e-71dc-4151-9458-dc08a428cd56" />
+  <Project Path="CMS/CMS.csproj" />
+  <Project Path="DAL/DAL.csproj" Id="382ffbb5-5587-4df2-a7fa-b19a26477dc4" />
+  <Project Path="Domain/Domain.csproj" Id="5d254966-a7ab-4d14-b7c9-0c11befc916d" />
+</Solution>
